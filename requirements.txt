@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+pydantic
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+# xformers (installed optionally in setup.py)
+edge-tts
+openai-whisper
+moviepy
+ffmpeg-python
+imageio
+numpy
+Pillow
+python-dotenv
+aiohttp
+scipy
+soundfile
+librosa
+srt

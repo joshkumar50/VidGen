@@ -1,0 +1,23 @@
+
+# models/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+
+# Outputs & uploads
+outputs/
+uploads/
+
+# Frontend
+frontend/node_modules/
+frontend-init/
+
+# Temp
+*.tmp
+*.log
