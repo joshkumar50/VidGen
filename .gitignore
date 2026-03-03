@@ -16,7 +16,19 @@ uploads/
 
 # Frontend
 frontend/node_modules/
-frontend-init/
+frontend/.vite/
+frontend/.vite-temp/
+frontend/dist/
+frontend/@*/
+frontend/*/
+!frontend/src/
+!frontend/public/
+!frontend/*.js
+!frontend/*.ts
+!frontend/*.json
+!frontend/*.html
+!frontend/.gitignore
+!frontend/README.md
 
 # Temp
 *.tmp
